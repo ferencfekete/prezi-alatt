@@ -1,3 +1,5 @@
 na nézzük báttya
 
 főleg hogy most mit tol
+
+na akkor pull előtt commitoljunk
